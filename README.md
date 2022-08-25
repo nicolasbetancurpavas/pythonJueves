@@ -7,7 +7,7 @@
  
  #### Programando por: Nicolas Betancur Pavas 
   taller ciclos while y for con python 
-  - whiñe
+  - while
   - for
   - lista 
   - Diccionario
